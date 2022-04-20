@@ -1,0 +1,24 @@
+{
+  "favroiteartists": [
+    {
+      "name": "Aaliyah",
+      "song": "4 Page Letter",
+      "id": "1"
+    },
+    {
+      "name": "Toni Braxton",
+      "song": "How Many Ways",
+      "id": "2"
+    },
+    {
+      "name": "Erykah Badu",
+      "song": "4 Leaf Clover",
+      "id": "3"
+    },
+    {
+      "name": "Beyonce",
+      "song": "Suga Mama",
+      "id": "4"
+    }
+  ]
+}
