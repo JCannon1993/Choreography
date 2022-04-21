@@ -1,8 +1,24 @@
-h1 { color : orchid;
+body{
+    background-color: #125B50
+}
+
+h3{
+    color: #FFA1A1
+}
+
+h4{
+    color: white;
+}
+
+h1 { color : #F8B400;
     text-align: center;
+}
 
-};
+button {
+    background-color: #ffa1a1;
+    border-radius: 10px;
+}
 
-body {
-    background-color: gray;
+li{
+    color: #f8b400
 }
